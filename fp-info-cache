@@ -1,4 +1,4 @@
-21041472363928330
+21071874019367592
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -62370,6 +62370,55 @@ MyLibrary
 15
 15
 MyLibrary
+CP_Radial_D5.0mm_P2.00mm
+CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+MyLibrary
+CP_Radial_D5.0mm_PWideForPower
+CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+MyLibrary
+CP_Radial_D6.3mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
+0
+2
+2
+MyLibrary
+CP_Radial_D8.0mm_P3.50mm
+CP, Radial series, Radial, pin pitch=3.50mm, , diameter=8mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 3.50mm  diameter 8mm Electrolytic Capacitor
+0
+2
+2
+MyLibrary
+C_Disc_D3.0mm_W2.0mm_P2.50mm
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3*2mm^2, Capacitor
+C Disc series Radial pin pitch 2.50mm  diameter 3mm width 2mm Capacitor
+0
+2
+2
+MyLibrary
+C_Rect_L7.0mm_W2.5mm_P5.00mm
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7*2.5mm^2, Capacitor
+C Rect series Radial pin pitch 5.00mm  length 7mm width 2.5mm Capacitor
+0
+2
+2
+MyLibrary
+C_Rect_L7.0mm_W3.5mm_P5.00mm
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7*3.5mm^2, Capacitor
+C Rect series Radial pin pitch 5.00mm  length 7mm width 3.5mm Capacitor
+0
+2
+2
+MyLibrary
 Content
 
 
@@ -62377,7 +62426,42 @@ Content
 0
 0
 MyLibrary
+Content-CULAYER
+
+
+0
+0
+0
+MyLibrary
+ContentSmaller
+
+
+0
+0
+0
+MyLibrary
+DIP-8_W7.62mm
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+MyLibrary
+DIP-14_W7.62mm
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+14
+14
+MyLibrary
 EnvelopeFollower
+
+
+0
+0
+0
+MyLibrary
+Flanger
 
 
 0
@@ -62391,12 +62475,33 @@ HarmonicFilter
 0
 0
 MyLibrary
+IRFD9024
+HVM DIP
+MOSFET (P-Channel)
+0
+4
+4
+MyLibrary
+LED_D5.0mm
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+MyLibrary
 LORINCK1049
 
 Rotary Switch 4x3/2x6/1x12
 0
 16
 16
+MyLibrary
+LT-44
+NF-Transformer, ETAL P3324,http://www.etalgroup.com/sites/default/files/products/P3324_April_2005.pdf
+NF-Transformer ETAL P3324 
+0
+5
+5
 MyLibrary
 OEP1200
 NF-Transformer, 1:1, ETAL P1200,http://www.etalgroup.com/sites/default/files/products/P1200_April_2005.pdf
@@ -62412,7 +62517,28 @@ Phaser
 0
 0
 MyLibrary
+Potentiometer_Omeg_PC16BU_Vertical
+Potentiometer, vertical, Omeg PC16BU, http://www.omeg.co.uk/pc6bubrc.htm
+Potentiometer vertical Omeg PC16BU
+0
+3
+3
+MyLibrary
+Potentiometer_Piher_PT-6-V_Vertical
+Potentiometer, vertical, Piher PT-6-V, http://www.piher-nacesa.com/pdf/11-PT6v03.pdf
+Potentiometer vertical Piher PT-6-V
+0
+3
+3
+MyLibrary
 PunkImage
+
+
+0
+0
+0
+MyLibrary
+PunkSmall
 
 
 0
@@ -62425,6 +62551,20 @@ Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W len
 0
 2
 2
+MyLibrary
+R_LDR_5.2x5.2mm_P3.5mm_Horizontal
+Resistor, LDR 5.2x5.2, upright, see http://cdn-reichelt.de/documents/datenblatt/A500/M996011A.pdf
+Resistor LDR5.2x5.2 
+0
+2
+2
+MyLibrary
+SWITCH_SPDT_PTH_12.9X6.9MM
+SPDT PTH SLIDE SWITCH
+SPDT PTH SLIDE SWITCH
+0
+3
+3
 MyLibrary
 SolderWire-0.25sqmm_1x01_D0.65mm_OD1.7mm
 Soldered wire connection, for a single 0.25 mm² wire, basic insulation, conductor diameter 0.65mm, outer diameter 1.7mm, size source Multi-Contact FLEXI-E_0.25 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
@@ -82180,16 +82320,16 @@ SPARKFUN FLAME LOGO - 0.4" HEIGHT - SILKSCREEN
 0
 0
 SparkfunAesthetics
-SFE_LOGO_FLAME_.05
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.5
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
 0
 0
 0
 SparkfunAesthetics
-SFE_LOGO_FLAME_.5
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.05
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
 0
 0
 0
@@ -88283,13 +88423,6 @@ transformer flyback
 0
 10
 10
-Tremolo
-Tremolo
-
-
-0
-0
-0
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

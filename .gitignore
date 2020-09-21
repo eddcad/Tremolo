@@ -3,4 +3,4 @@
 *.tsv
 *.xml
 # backup files
-*.bak
+*-bak
