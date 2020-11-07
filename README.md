@@ -1,0 +1,1 @@
+Clone of Lovetone's Wobbulator edited to fit in a Hammond 1590xx.
